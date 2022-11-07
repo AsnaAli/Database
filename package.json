@@ -1,0 +1,11 @@
+{
+  "name": "asna-new-db-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Untitled.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Asna Ali",
+  "license": "ISC"
+}
